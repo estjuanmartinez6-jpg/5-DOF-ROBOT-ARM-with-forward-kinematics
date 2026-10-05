@@ -76,4 +76,4 @@ Future improvements may include inverse kinematics, trajectory planning, real-ti
 
 ![Physical Robot](20250224_173807.jpg)
 
-![Control Interface](Captura de pantalla 2026-10-04 205815.png)
+![Control Interface](interfaz.png)
