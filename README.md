@@ -73,3 +73,7 @@ The robot can be modeled using the Denavit-Hartenberg convention, allowing the t
 The main goal of the project is to integrate mechanical design, robotic kinematics, embedded programming, and high-level software into a single robotic system.
 
 Future improvements may include inverse kinematics, trajectory planning, real-time visualization, and autonomous motion control.
+
+![Physical Robot](20250224_173807.jpg)
+
+![Control Interface](Captura de pantalla 2026-10-04 205815.png)
